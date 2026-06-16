@@ -1,4 +1,4 @@
-🚗 CLI CarPool Management System
+🚗 CLI CarPool Management System :
 
 A Command Line Interface (CLI) based CarPool Management System built using Java and JDBC for database connectivity. This application allows users to manage carpools, passengers, drivers, and bookings through a simple terminal-based interface.
 
